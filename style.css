@@ -1,0 +1,155 @@
+element.style {
+    --sky-ui-main-color: #00c1ff;
+    --sky-ui-main-color-rgb: 0, 193, 255;
+    --sky-ui-main-color-text: #00a8e6;
+    --sky-ui-main-color-text-rgb: 0, 168, 230;
+}
+:root {
+    --sky-ui-kit-color-text-base: #242d34;
+    --sky-ui-kit-color-text-secondary: #50575c;
+    --sky-ui-kit-color-text-label: #73797d;
+    --sky-ui-kit-color-text-placeholder: #969b9e;
+    --sky-ui-kit-color-text-inversed: #ffffff;
+    --sky-ui-kit-color-text-inversedSecondary: #dadada;
+    --sky-ui-kit-color-text-baseRgb: 36, 45, 52;
+    --sky-ui-kit-color-text-secondaryRgb: 80, 87, 92;
+    --sky-ui-kit-color-text-labelRgb: 115, 121, 125;
+    --sky-ui-kit-color-text-placeholderRgb: 150, 155, 158;
+    --sky-ui-kit-color-text-inversedRgb: 255, 255, 255;
+    --sky-ui-kit-color-text-inversedSecondaryRgb: 218, 218, 218;
+    --sky-ui-kit-color-background-base: #ffffff;
+    --sky-ui-kit-color-background-secondary: #e3e7eb;
+    --sky-ui-kit-color-background-disabled: #93999f;
+    --sky-ui-kit-color-background-baseRgb: 255, 255, 255;
+    --sky-ui-kit-color-background-secondaryRgb: 227, 231, 235;
+    --sky-ui-kit-color-background-disabledRgb: 147, 153, 159;
+    --sky-ui-kit-color-border-base: #e3e7eb;
+    --sky-ui-kit-color-border-baseRgb: 227, 231, 235;
+    --sky-ui-kit-color-brand-text: #4287df;
+    --sky-ui-kit-color-brand-base: #00aefa;
+    --sky-ui-kit-color-brand-background: #e5effc;
+    --sky-ui-kit-color-brand-backgroundHover: #f2f7fd;
+    --sky-ui-kit-color-brand-backgroundActive: #e5effc;
+    --sky-ui-kit-color-brand-lighten5: #74aaef;
+    --sky-ui-kit-color-brand-darken5: #468ee9;
+    --sky-ui-kit-color-brand-lighten20: #b8d4f7;
+    --sky-ui-kit-color-brand-textRgb: 66, 135, 223;
+    --sky-ui-kit-color-brand-baseRgb: 93, 156, 236;
+    --sky-ui-kit-color-brand-backgroundRgb: 229, 239, 252;
+    --sky-ui-kit-color-brand-backgroundHoverRgb: 242, 247, 253;
+    --sky-ui-kit-color-brand-backgroundActiveRgb: 229, 239, 252;
+    --sky-ui-kit-color-brand-lighten5Rgb: 116, 170, 239;
+    --sky-ui-kit-color-brand-darken5Rgb: 70, 142, 233;
+    --sky-ui-kit-color-brand-lighten20Rgb: 184, 212, 247;
+    --sky-ui-kit-color-positive-text: #55a900;
+    --sky-ui-kit-color-positive-base: #8cc152;
+    --sky-ui-kit-color-positive-background: #edf5e3;
+    --sky-ui-kit-color-positive-backgroundHover: #f6faf1;
+    --sky-ui-kit-color-positive-backgroundActive: #edf5e3;
+    --sky-ui-kit-color-positive-lighten5: #98c865;
+    --sky-ui-kit-color-positive-darken5: #7fb842;
+    --sky-ui-kit-color-positive-lighten20: #bedc9d;
+    --sky-ui-kit-color-positive-textRgb: 85, 169, 0;
+    --sky-ui-kit-color-positive-baseRgb: 140, 193, 82;
+    --sky-ui-kit-color-positive-backgroundRgb: 237, 245, 227;
+    --sky-ui-kit-color-positive-backgroundHoverRgb: 246, 250, 241;
+    --sky-ui-kit-color-positive-backgroundActiveRgb: 237, 245, 227;
+    --sky-ui-kit-color-positive-lighten5Rgb: 152, 200, 101;
+Show all properties (1183 more)
+}
+:root {
+    --sky-ui-kit-color-text-base: #242d34;
+    --sky-ui-kit-color-text-secondary: #50575c;
+    --sky-ui-kit-color-text-label: #73797d;
+    --sky-ui-kit-color-text-placeholder: #969b9e;
+    --sky-ui-kit-color-text-inversed: #ffffff;
+    --sky-ui-kit-color-text-inversedSecondary: #dadada;
+    --sky-ui-kit-color-text-baseRgb: 36, 45, 52;
+    --sky-ui-kit-color-text-secondaryRgb: 80, 87, 92;
+    --sky-ui-kit-color-text-labelRgb: 115, 121, 125;
+    --sky-ui-kit-color-text-placeholderRgb: 150, 155, 158;
+    --sky-ui-kit-color-text-inversedRgb: 255, 255, 255;
+    --sky-ui-kit-color-text-inversedSecondaryRgb: 218, 218, 218;
+    --sky-ui-kit-color-background-base: #ffffff;
+    --sky-ui-kit-color-background-secondary: #e3e7eb;
+    --sky-ui-kit-color-background-disabled: #93999f;
+    --sky-ui-kit-color-background-baseRgb: 255, 255, 255;
+    --sky-ui-kit-color-background-secondaryRgb: 227, 231, 235;
+    --sky-ui-kit-color-background-disabledRgb: 147, 153, 159;
+    --sky-ui-kit-color-border-base: #e3e7eb;
+    --sky-ui-kit-color-border-baseRgb: 227, 231, 235;
+    --sky-ui-kit-color-brand-text: #4287df;
+    --sky-ui-kit-color-brand-base: #00aefa;
+    --sky-ui-kit-color-brand-background: #e5effc;
+    --sky-ui-kit-color-brand-backgroundHover: #f2f7fd;
+    --sky-ui-kit-color-brand-backgroundActive: #e5effc;
+    --sky-ui-kit-color-brand-lighten5: #74aaef;
+    --sky-ui-kit-color-brand-darken5: #468ee9;
+    --sky-ui-kit-color-brand-lighten20: #b8d4f7;
+    --sky-ui-kit-color-brand-textRgb: 66, 135, 223;
+    --sky-ui-kit-color-brand-baseRgb: 93, 156, 236;
+    --sky-ui-kit-color-brand-backgroundRgb: 229, 239, 252;
+    --sky-ui-kit-color-brand-backgroundHoverRgb: 242, 247, 253;
+    --sky-ui-kit-color-brand-backgroundActiveRgb: 229, 239, 252;
+    --sky-ui-kit-color-brand-lighten5Rgb: 116, 170, 239;
+    --sky-ui-kit-color-brand-darken5Rgb: 70, 142, 233;
+    --sky-ui-kit-color-brand-lighten20Rgb: 184, 212, 247;
+    --sky-ui-kit-color-positive-text: #55a900;
+    --sky-ui-kit-color-positive-base: #8cc152;
+    --sky-ui-kit-color-positive-background: #edf5e3;
+    --sky-ui-kit-color-positive-backgroundHover: #f6faf1;
+    --sky-ui-kit-color-positive-backgroundActive: #edf5e3;
+    --sky-ui-kit-color-positive-lighten5: #98c865;
+    --sky-ui-kit-color-positive-darken5: #7fb842;
+    --sky-ui-kit-color-positive-lighten20: #bedc9d;
+    --sky-ui-kit-color-positive-textRgb: 85, 169, 0;
+    --sky-ui-kit-color-positive-baseRgb: 140, 193, 82;
+    --sky-ui-kit-color-positive-backgroundRgb: 237, 245, 227;
+    --sky-ui-kit-color-positive-backgroundHoverRgb: 246, 250, 241;
+    --sky-ui-kit-color-positive-backgroundActiveRgb: 237, 245, 227;
+    --sky-ui-kit-color-positive-lighten5Rgb: 152, 200, 101;
+Show all properties (1183 more)
+}
+html, body {
+    height: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+html, body {
+    height: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    -webkit-locale: "ru";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
